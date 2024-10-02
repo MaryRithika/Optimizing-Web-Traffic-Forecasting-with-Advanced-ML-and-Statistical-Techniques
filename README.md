@@ -55,6 +55,9 @@ This project provides a comprehensive approach to web traffic forecasting by emp
 ### Contributors
 
 PVS Sampath Vinayak - Data Preprocessing and Analysis
+
 Mary Rithika Reddy Gade - Model Training and Evaluation
+
 Akhil Nakka - Model Training and Evaluation
+
 Manasa Motepalli - Visualization and Report Compilation
