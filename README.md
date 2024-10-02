@@ -43,16 +43,16 @@ Run the Script: Execute the Python script to train the model and visualize the r
 python web_traffic_forecasting.py
 ```
 
-Model Performance
+## Model Performance
 The project compares different models and reports performance using metrics like Root Mean Squared Error (RMSE). For instance, SARIMA achieved an accuracy of 89% on the dataset.
 
-Visualizations
+## Visualizations
 Graphs are generated to compare actual and predicted web traffic, providing insights into the model’s forecasting performance.
 
-Conclusion
+### Conclusion
 This project provides a comprehensive approach to web traffic forecasting by employing various statistical and machine learning techniques. Each model offers unique advantages for time series forecasting, with SARIMA excelling in accuracy and interpretability, while MLP, RNN, and SAE explore deeper learning approaches for capturing complex patterns.
 
-Contributors
+### Contributors
 
 PVS Sampath Vinayak - Data Preprocessing and Analysis
 Mary Rithika Reddy Gade - Model Training and Evaluation
